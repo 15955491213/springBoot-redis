@@ -1,4 +1,4 @@
-package cn.item.springBoot.data;
+package cn.item.springBoot.data.redis;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
